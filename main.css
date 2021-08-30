@@ -1,0 +1,42 @@
+#main {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(243, 243, 217);
+    margin: 20px 30px 20px 30px;
+}
+#title {
+    text-align: center;
+    background-color: wheat;
+    padding-top: 1rem;
+    padding-bottom: 1rem; 
+}
+#img-div {
+    text-align: center;
+    margin-top: 1rem;
+}
+  #image{
+  max-width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  height: auto;
+  display: block;
+}
+
+article{
+    margin:2rem 25rem 2rem 25rem;
+}
+h3{
+    text-align: center;
+}
+#tribute-info {
+    text-align: left;
+padding-left: 20rem;
+list-style: circle;
+line-height:2rem;
+}
+.nested-list{
+    list-style: square;
+}
+h2{
+    font-weight: 5rem;
+    margin-left: 25rem;
+}
